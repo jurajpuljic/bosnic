@@ -10847,6 +10847,12 @@ html {
   min-height: 15rem;
 }
 
+.bg-img-fish  {
+  background-image: url("assets/ribe-pozadina-homepage.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
 /* reset */
 #fs-frm input,
 #fs-frm select,
@@ -10954,3 +10960,4 @@ html {
 #fs-frm fieldset.locale select[name="state"] {
   margin-right: 3%;
 }
+
